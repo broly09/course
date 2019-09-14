@@ -1,0 +1,58 @@
+#main_div{
+	position:fixed;
+      top:0;
+      left:10%;
+      width:75%;
+      height:75%;
+      border: 5px solid #c3c3c3;
+      align-content: center;
+      background: #F7B32B;
+
+}
+
+#head_div{
+
+	width: 50%;
+      height: 10%;
+      top: 0%;
+      margin: 0 auto;
+      position: relative;
+      background:#F72C25;
+
+}
+
+#head_main{
+
+	text-align: center;
+}
+
+#Content_div{
+
+	width: 50%;
+      height: 70%;
+      top: 0%;
+      margin: 0 auto;
+      position: relative;
+      background:#211718;
+
+}
+
+.ordered_list{
+
+
+
+}
+
+.ordered_list_element{
+
+   font-size: 20px;
+	color: white;
+
+}
+
+.ul_elements{
+
+	color: green;
+	font-size: 18px;
+
+}
